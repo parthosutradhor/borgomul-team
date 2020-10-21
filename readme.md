@@ -29,3 +29,11 @@ A few words about yourself <br>
 - **Interests:** Pure Mathematics, Web Development, CP, AI(Machine Learning, Deep Learning and Data Science), Game Development(Designing and coding)
 - **Hobbies:** Reading, Playing Guitar, Gaming, Browsing random topics (I don't go out too much!)
 - **About Myself:** Hi! I'm Md Ahnaf Sadik Inan. As you can see, I have a lot of interests but no professional experience. Mathematica peaked my interest into coding. But I think my base language is Python. For web development I can work with JavaScript. This year I got a bit good working with fortran and C. Actually I  think I can adopt into any language if needed and am always interested to learn new things. 
+
+
+**Partho Sutra Dhor**
+
+- **Academic Status:** 4th year, B.Sc Honours, Departement of Mathematics, University of Dhaka, Bangladesh.
+- **Interests:** Research, Ethical Hacking, Cryptography, Competitive Programming, Low level languages.
+- **Hobbies:** Problem Solving and Teaching
+- **About Myself:** Hi! I'm Partho Sutra Dhor. I am a Ethical Hacker and web application penetration tester. I have big interest on low level programming like assembly. Now I'm learning Reverse Engineering and Cryptography.
